@@ -1,1 +1,1 @@
-# React Crypto App
+# React Crypto App - educational project
